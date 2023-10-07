@@ -1,86 +1,91 @@
-/* Allgemeine Stile */
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f7f7f7;
-    color: #333;
-}
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Die Wahrheit über den CO2-Fußabdruck</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
 
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-}
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
 
-/* Header */
-header {
-    background-color: #1e90ff;
-    color: #fff;
-    text-align: center;
-    padding: 20px 0;
-}
+        header h1 {
+            margin: 0;
+        }
 
-header h1 {
-    font-size: 36px;
-}
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
 
-/* Navigation */
-nav ul {
-    list-style: none;
-    padding: 0;
-}
+        h2 {
+            color: #333;
+        }
 
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
+        p {
+            line-height: 1.6;
+        }
 
-/* Artikel */
-article {
-    background-color: #fff;
-    padding: 20px;
-    margin-bottom: 20px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-}
+        footer {
+            text-align: center;
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Die Wahrheit über den CO2-Fußabdruck</h1>
+    </header>
+    
+    <section>
+        <h2>Die Kontroverse um den CO2-Fußabdruck</h2>
+        <p>Hast du schon einmal deinen CO2-Fußabdruck berechnet? Viele Umweltorganisationen bieten Online-Tools an, mit denen du schnell und einfach herausfinden kannst, wie viel Treibhausgas-Emissionen dein Lebensstil verursacht. Dies soll dabei helfen, die Bereiche zu identifizieren, in denen du deine CO2-Emissionen reduzieren kannst.</p>
+        <p>Es stellt sich jedoch heraus, dass der CO2-Fußabdruck selbst umstritten ist. Mark Kaufman von Mashable hat aufgedeckt, dass der "Carbon Footprint Calculator," der 2004 online von BP veröffentlicht wurde, tatsächlich von der Werbeagentur Ogilvy & Mather entwickelt wurde, die vom Öl- und Gaskonzern beauftragt wurde. Dieses Instrument verlagert die Verantwortung für den Klimawandel von der Industrie auf die Bürger, indem es jeden Einzelnen mit einem CO2-Fußabdruck in Zahlen konfrontiert.</p>
+        <p>Dennoch ist es sinnvoll, sich bewusst zu machen, wie das eigene Verhalten das Klima beeinflusst. Der CO2-Fußabdruck sollte jedoch nicht von der Tatsache ablenken, dass der Klimaschutz in erster Linie eine gesellschaftliche und politische Aufgabe ist.</p>
+    </section>
+    
+    <section>
+        <h2>Warum der CO2-Fußabdruck umstritten ist</h2>
+        <p>Jeder Mensch hinterlässt Spuren in der Atmosphäre. Der CO2-Fußabdruck quantifiziert, wie viel Treibhausgase jede Person durch ihren Lebensstil erzeugt. Interessanterweise wurde diese Methode von der Industrie entwickelt, die maßgeblich zur Klimakrise beiträgt. Im Jahr 2004 startete der Ölkonzern BP einen "Carbon Footprint" Rechner auf seiner Website und forderte die Menschen auf, ihren Fußabdruck zu reduzieren. Zwar war das Bewusstsein für Treibhausgase bereits vorhanden, aber die Idee, sie auf Einzelpersonen herunterzubrechen, wurde durch BP und die Werbeagentur Ogilvy & Mather populär gemacht.</p>
+    </section>
+    
+    <section>
+        <h2>Die Verschiebung der Verantwortung</h2>
+        <p>Es ist nicht neu, dass Hersteller von umweltschädlichen Produkten versuchen, die Verantwortung auf die Verbraucher abzuwälzen. Dies war beispielsweise bei der Tabak- und Waffenindustrie der Fall, die versuchten, die Schuld auf die Benutzer zu schieben. Auch die Umstellung auf umweltfreundliche Verpackungen, wie Mehrwegflaschen, wurde von der Industrie bekämpft. Die Botschaft lautete: Umweltschutz ist in erster Linie das Problem der Verbraucher.</p>
+    </section>
 
-article h2 {
-    font-size: 24px;
-    color: #1e90ff;
-    margin-bottom: 10px;
-}
+    <section>
+        <h2>Die Komplexität des Klimawandels</h2>
+        <p>Die Klimakrise ist nicht nur eines der größten Probleme unserer Zeit, sondern auch eine Herausforderung für unser Denken. Ein einzelner gefahrener Autokilometer oder eine Flugstunde mag auf den ersten Blick harmlos erscheinen, aber erst die Summe dieser Aktivitäten belastet die Atmosphäre. Die Auswirkungen unserer Handlungen, sei es beim Essen oder Heizen, zeigen sich oft erst Jahrzehnte später. Daher fällt es uns schwer, den Klimawandel als drängendes Problem wahrzunehmen. Der CO2-Fußabdruck bietet eine einfache Möglichkeit, die Auswirkungen unserer Handlungen zu quantifizieren und sie für jeden verständlich zu machen.</p>
+    </section>
+    
+    <section>
+        <h2>Der CO2-Fußabdruck als Bewusstseinswecker</h2>
+        <p>Tatsächlich kann der CO2-Fußabdruck dazu beitragen, das Bewusstsein für den Klimaschutz zu schärfen. Insbesondere für Menschen, die bereits Interesse am Thema haben, kann der Fußabdruck ein nützliches Instrument sein, um Veränderungen im eigenen Lebensstil anzuregen. Allerdings kann die Konfrontation von Personen, die sich nicht für den Klimaschutz interessieren, mit ihrem CO2-Fußabdruck den gegenteiligen Effekt haben. In solchen Fällen neigen Menschen dazu, sich von der Thematik zu distanzieren und ihren Einfluss herunterzuspielen. Wichtiger ist es, ehrlich zu sich selbst zu sein und zu erkennen, in welchen Bereichen Verbesserungen möglich sind, ohne Ausreden zu suchen.</p>
+    </section>
 
-/* Links */
-a {
-    color: #1e90ff;
-    text-decoration: none;
-}
+    <section>
+        <h2>Die Grenzen individuellen Handelns</h2>
+        <p>Sogar für Menschen, die bereits einen umweltfreundlichen Lebensstil führen, kann es schwer sein, einen klimaverträglichen Fußabdruck zu erreichen. Selbst ein hypothetischer perfekter Öko-Bürger würde immer noch Spuren in der Atmosphäre hinterlassen, da die grundlegenden Strukturen unserer Gesellschaft auf fossilen Brennstoffen beruhen. Dies unterstreicht die Notwendigkeit von politischen Maßnahmen und globaler Zusammenarbeit, um die Klimakrise zu bewältigen. Wir sollten uns nicht nur auf individuelle Veränderungen konzentrieren, sondern auch Druck auf Unternehmen und Regierungen ausüben, um systemische Veränderungen herbeizuführen.</p>
+    </section>
 
-a:hover {
-    text-decoration: underline;
-}
-
-/* Footer */
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-}
-
-/* Zusätzliche Informationen */
-#zusatzliche-informationen {
-    background-color: #f9f9f9;
-    padding: 20px;
-}
-
-#zusatzliche-informationen section {
-    margin-bottom: 20px;
-}
-
-#zusatzliche-informationen h3 {
-    font-size: 20px;
-    color: #333;
-    margin-bottom: 10px;
-}
+    <footer>
+        <p>&copy; 2023 Philip Pramer & Mika Müller</p>
+    </footer>
+</body>
+</html>
